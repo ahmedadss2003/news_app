@@ -1,16 +1,17 @@
-# newsapp
+# News App
 
-A new Flutter project.
+A simple news application built using the Flutter framework. This app fetches news data from the [NewsAPI](https://newsapi.org/).
+
+## Features
+
+- Displays the latest news headlines
+- Shows news articles by category
+- Provides detailed news articles with images, descriptions, and links to full articles
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) installed
+- An API key from [NewsAPI](https://newsapi.org/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
